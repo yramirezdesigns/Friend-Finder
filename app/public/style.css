@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://timedotcom.files.wordpress.com/2018/01/friends-cast.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: white;
+    color: black;
+    opacity: .75;
+    margin-top: 20px;
+}
+
+#submit {
+    background: black;
+}
+
+#jumbo_h2 {
+    color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: blue;
+    border-color: lightblue;
+}
+
+.panel-title {
+    color: black;
+}
